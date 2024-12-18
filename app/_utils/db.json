@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "af23",
+      "title": "HAHA",
+      "completed": false
+    },
+    {
+      "id": "52a5",
+      "title": "adada",
+      "completed": false
+    },
+    {
+      "id": "a7dc",
+      "title": "BERAK",
+      "completed": true
+    }
+  ]
+}
